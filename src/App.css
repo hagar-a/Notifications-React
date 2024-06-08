@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  
+}
+
+body {
+  background-image: url('https://cdn.pixabay.com/photo/2019/04/10/11/56/watercolor-4116932_1280.png'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bolder;
+}

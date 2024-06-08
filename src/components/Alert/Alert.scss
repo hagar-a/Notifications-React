@@ -1,0 +1,38 @@
+.wrapper{
+   
+    margin: 2px;
+    padding: 4px;
+    width: 97vw;
+}
+
+.header-icons{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.header-icons span {
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+  }
+
+.alert-image{
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 4px white solid;
+}
+
+.image-container {
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+    margin: 3px;
+}
+
+.image-wrapper {
+    display: flex;
+    padding: 4px;
+}
